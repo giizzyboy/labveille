@@ -7,10 +7,10 @@ excerpt: " "
 author:     "Glory M."
 date:       2024-01-09
 description: ""
-image: "/img/bg-article-1.png"
+image: "/labveille/img/bg-article-1.png"
 published: true 
 tags:
-    - Istio 
+    - art direction
 
 categories: [ Tech ]
 URL: "/2024/01/09/art-director/"
@@ -46,7 +46,7 @@ Dans l'univers vaste de la narration visuelle, la magie opère souvent en coulis
 #### En quoi est-il pertinent pour moi ? 
 Cet article sur la direction artistique et la conception de production offre une perspective essentielle. Il explore comment ces aspects influencent la création visuelle dans le cinéma, les séries Web et les publicités, offrant des idées enrichissantes pour améliorer mes propres projets. En soulignant la collaboration et l'impact méconnu de ces disciplines, l'article m'inspire à approfondir ma compréhension pour créer des contenus visuels plus percutants et immersifs.
  
-![Gateway](/img/article-1.jpg)    
+![Gateway](/labveille//img/article-1.jpg)    
 
 
 

@@ -7,10 +7,10 @@ excerpt: ""
 author:     "Glory M."
 date:       2024-01-11
 description: ""
-image: "/img/bg-sources.jpg"
+image: "/labveille//img/bg-sources.jpg"
 published: true 
 tags:
-    - Inspirations 
+    - Inspiration 
 
 categories: [ Tech ]
 URL: "/2024/01/11/my-ressources/"
